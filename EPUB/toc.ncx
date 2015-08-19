@@ -19,7 +19,7 @@
 		</navPoint>
 		<navPoint id="titlepage">
 			<navLabel>
-				<text>Teaching and Learning in the Digital Age (title page)</text>
+				<text>Teaching and Learning in the Digital Age</text>
 			</navLabel>
 			<content src="titlepage.xhtml"/>
 		</navPoint>
@@ -43,13 +43,13 @@
 		</navPoint>
 		<navPoint id="part1-en">
 			<navLabel>
-				<text>Part 1 – English</text>
+				<text>Part 1 – English text with Chinese abstracts</text>
 			</navLabel>
 			<content src="part1-en.xhtml"/>
 		</navPoint>
 		<navPoint id="chapter1-abstract-zh">
 			<navLabel>
-				<text>Chapter 1 – (Chinese abstract)</text>
+				<text>第一章 知识经济中的教育 摘要 (abstract)</text>
 			</navLabel>
 			<content src="chapter1-abstract-zh.xhtml"/>
 		</navPoint>
@@ -61,13 +61,13 @@
 		</navPoint>
 		<navPoint id="part2-zh">
 			<navLabel>
-				<text>Part 2 – Chinese</text>
+				<text>Part 2 – Chinese text with English abstracts</text>
 			</navLabel>
 			<content src="part2-zh.xhtml"/>
 		</navPoint>
 		<navPoint id="chapter7-abstract-en">
 			<navLabel>
-				<text>Chapter 7 – (English abstract)</text>
+				<text>Chapter 7 – Application E-book in China (abstract)</text>
 			</navLabel>
 			<content src="chapter7-abstract-en.xhtml"/>
 		</navPoint>

@@ -36,6 +36,7 @@
 		
 		<!-- images -->
 		<item id="id-cover-jpg" href="images/cover.jpg" properties="cover-image" media-type="image/jpeg"/>
+		<item id="id-fig7-1-png" href="images/figure7.1.png" media-type="image/png"/>
 		<!-- supplementary files -->
 		<item id="style" href="css/style.css" media-type="text/css"/>
 	</manifest>

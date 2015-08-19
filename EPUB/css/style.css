@@ -58,8 +58,17 @@ h6 {
 	margin-bottom: 2em;
 }
 
-#titlepagetitle h1 .subtitle {
+.subtitle {
 	display: block;
 	font-size: .65em;
 	font-weight: normal;
+}
+
+.chapter h1 {
+	text-align: center;
+}
+
+.refList li {
+	list-style-type: none;
+	line-height: 1.75em;
 }
