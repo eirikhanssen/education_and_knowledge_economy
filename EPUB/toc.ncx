@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns:ncx="http://www.daisy.org/z3986/2005/ncx/" xmlns="http://www.daisy.org/z3986/2005/ncx/"
+	version="2005-1" xml:lang="en">
+	<head>
+		<meta name="dtb:uid" content="http://edxy.net-teaching.and.learning.in.the.digital.age"/>
+		<meta name="dtb:depth" content="1"/>
+		<meta name="dtb:totalPageCount" content="0"/>
+		<meta name="dtb:maxPageNumber" content="10"/>
+	</head>
+	<docTitle>
+		<text>Teaching and Learning in the Digital Age</text>
+	</docTitle>
+	<navMap>
+		<navPoint id="cover">
+			<navLabel>
+				<text>Teaching and Learning in the Digital Age (cover)</text>
+			</navLabel>
+			<content src="cover.xhtml"/>
+		</navPoint>
+		<navPoint id="titlepage">
+			<navLabel>
+				<text>Teaching and Learning in the Digital Age (title page)</text>
+			</navLabel>
+			<content src="titlepage.xhtml"/>
+		</navPoint>
+		<navPoint id="toc">
+			<navLabel>
+				<text>Table of contents</text>
+			</navLabel>
+			<content src="toc.xhtml"/>
+		</navPoint>
+		<navPoint id="foreword-zh">
+			<navLabel>
+				<text>Foreword (chinese)</text>
+			</navLabel>
+			<content src="foreword-zh.xhtml"/>
+		</navPoint>
+		<navPoint id="foreword-en">
+			<navLabel>
+				<text>Foreword (english)</text>
+			</navLabel>
+			<content src="foreword-en.xhtml"/>
+		</navPoint>
+		<navPoint id="part1-en">
+			<navLabel>
+				<text>Part 1 – English</text>
+			</navLabel>
+			<content src="part1-en.xhtml"/>
+		</navPoint>
+		<navPoint id="chapter1-abstract-zh">
+			<navLabel>
+				<text>Chapter 1 – (Chinese abstract)</text>
+			</navLabel>
+			<content src="chapter1-abstract-zh.xhtml"/>
+		</navPoint>
+		<navPoint id="chapter1-en">
+			<navLabel>
+				<text>Chapter 1 – (English text)</text>
+			</navLabel>
+			<content src="chapter1-en.xhtml"/>
+		</navPoint>
+		<navPoint id="part2-zh">
+			<navLabel>
+				<text>Part 2 – Chinese</text>
+			</navLabel>
+			<content src="part2-zh.xhtml"/>
+		</navPoint>
+		<navPoint id="chapter7-abstract-en">
+			<navLabel>
+				<text>Chapter 7 – (English abstract)</text>
+			</navLabel>
+			<content src="chapter7-abstract-en.xhtml"/>
+		</navPoint>
+		<navPoint id="chapter7-zh">
+			<navLabel>
+				<text>Chapter 7 – (Chinese text)</text>
+			</navLabel>
+			<content src="chapter7-zh.xhtml"/>
+		</navPoint>
+	</navMap>
+</ncx>

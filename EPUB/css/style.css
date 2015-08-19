@@ -1,0 +1,65 @@
+/* ePub styles */
+
+body {
+	line-height: 1.5em;
+}
+
+#tocList li {
+	list-style-type: none;
+	line-height: 1.75em;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: sans-serif;
+}
+
+#tocList li a {
+	text-decoration: none;
+	font-family: sans-serif;
+}
+/* specific page styles */
+/* titlepage */
+
+.titlepage.authors {
+	margin: 2em 0;
+}
+
+.titlepage.authors li {
+	display: inline-block;
+	float: left;
+	text-align: right;
+	width: 50%;
+	box-sizing: border-box;
+	padding: 0 .5em;
+}
+.titlepage.authors li:nth-child(2n) {text-align: left;}
+
+.titlepage.editedby {
+	text-align: center;
+	margin: 2em 0;
+}
+
+.titlepage.pubyear {
+	text-align: center;
+	margin: 2em;
+}
+
+.titlepage.publoc {
+	text-align: center;
+	margin: 2em;
+}
+
+#titlepagetitle {
+	margin-bottom: 2em;
+}
+
+#titlepagetitle h1 .subtitle {
+	display: block;
+	font-size: .65em;
+	font-weight: normal;
+}

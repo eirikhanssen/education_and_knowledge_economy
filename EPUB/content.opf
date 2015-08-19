@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:dcterms="http://purl.org/dc/terms/" version="3.0" xml:lang="en" unique-identifier="bookid">
+	<!-- not updated: bookid -->
+	<metadata>
+		<dc:language id="pub-language">en</dc:language>
+		<dc:identifier id="bookid">http://edxy.net-teaching.and.learning.in.the.digital.age</dc:identifier>
+		<dc:title id="t1">Teaching and Learning in the Digital Age</dc:title>
+		<meta refines="#t1" property="title-type">main</meta>
+		<dc:title id="t2" >subtitle</dc:title>
+		<meta refines="#t2" property="title-type">Experiential Approaches to eLearning Design in Norway and China</meta>
+		<dc:creator id="author1">Professor Helge Hoivik, Professor Jiao Baocong, Professor Fang Haiguang and Professor Wang Xiaochun</dc:creator>
+		<dc:contributor id="editor1">Helge Hoivik</dc:contributor>
+		<meta refines="#author1" property="role">Editor</meta>
+		<meta property="dcterms:modified">2015-08-19T16:00:00Z</meta>
+		
+		<!-- meta for the cover -->
+		<meta name="cover" content="cover"/>
+	</metadata>
+	<manifest>
+		<!-- navigation -->
+		<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+		<item id="toc" properties="nav" media-type="application/xhtml+xml" href="toc.xhtml"/>
+		
+		<!-- pages -->
+		<item id="cover" href="cover.xhtml" media-type="application/xhtml+xml"/>
+		<item id="titlepage" href="titlepage.xhtml" media-type="application/xhtml+xml"/>
+		<item id="foreword-zh" href="foreword-zh.xhtml" media-type="application/xhtml+xml"/>
+		<item id="foreword-en" href="foreword-en.xhtml" media-type="application/xhtml+xml"/>
+		<item id="part1-en" href="part1-en.xhtml" media-type="application/xhtml+xml"/>
+		<item id="chapter1-abstract-zh" href="chapter1-abstract-zh.xhtml" media-type="application/xhtml+xml"/>
+		<item id="chapter1-en" href="chapter1-en.xhtml" media-type="application/xhtml+xml"/>
+		<item id="part2-zh" href="part2-zh.xhtml" media-type="application/xhtml+xml"/>
+		<item id="chapter7-abstract-en" href="chapter7-abstract-en.xhtml" media-type="application/xhtml+xml"/>
+		<item id="chapter7-zh" href="chapter7-zh.xhtml" media-type="application/xhtml+xml"/>
+		
+		<!-- images -->
+		<item id="id-cover-jpg" href="images/cover.jpg" properties="cover-image" media-type="image/jpeg"/>
+		<!-- supplementary files -->
+		<item id="style" href="css/style.css" media-type="text/css"/>
+	</manifest>
+	<spine toc="ncx">
+		<itemref idref="cover"/>
+		<itemref idref="titlepage"/>
+		<itemref idref="toc"/>
+		<itemref idref="foreword-zh"/>
+		<itemref idref="foreword-en"/>
+		<itemref idref="part1-en"/>
+		<itemref idref="chapter1-abstract-zh"/>
+		<itemref idref="chapter1-en"/>
+		<itemref idref="part2-zh"/>
+		<itemref idref="chapter7-abstract-en"/>
+		<itemref idref="chapter7-zh"/>
+	</spine>
+	<!--<guide>
+		<reference type="loi" title="List of illustrations" href="appendix.html#figures"/>
+	</guide>-->
+</package>
