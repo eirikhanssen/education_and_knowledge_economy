@@ -12,8 +12,7 @@
 		<dc:creator id="author1">Professor Helge Hoivik, Professor Jiao Baocong, Professor Fang Haiguang and Professor Wang Xiaochun</dc:creator>
 		<dc:contributor id="editor1">Helge Hoivik</dc:contributor>
 		<meta refines="#author1" property="role">Editor</meta>
-		<meta property="dcterms:modified">2015-08-19T16:00:00Z</meta>
-		
+		<meta property="dcterms:modified">2015-08-20T18:45:00Z</meta>
 		<!-- meta for the cover -->
 		<meta name="cover" content="cover"/>
 	</metadata>
