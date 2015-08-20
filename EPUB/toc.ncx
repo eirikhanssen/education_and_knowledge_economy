@@ -55,7 +55,7 @@
 		</navPoint>
 		<navPoint id="chapter1-en">
 			<navLabel>
-				<text>Chapter 1 – (English text)</text>
+				<text>Chapter 1 – Education in the Knowledge Economy</text>
 			</navLabel>
 			<content src="chapter1-en.xhtml"/>
 		</navPoint>
@@ -67,13 +67,13 @@
 		</navPoint>
 		<navPoint id="chapter7-abstract-en">
 			<navLabel>
-				<text>Chapter 7 – Application E-book in China (abstract)</text>
+				<text>Chapter 7 – E-book Application in China (abstract)</text>
 			</navLabel>
 			<content src="chapter7-abstract-en.xhtml"/>
 		</navPoint>
 		<navPoint id="chapter7-zh">
 			<navLabel>
-				<text>Chapter 7 – (Chinese text)</text>
+				<text>第7章 电子教材在中国的发展与应用</text>
 			</navLabel>
 			<content src="chapter7-zh.xhtml"/>
 		</navPoint>
