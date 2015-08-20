@@ -31,13 +31,13 @@
 		</navPoint>
 		<navPoint id="foreword-zh">
 			<navLabel>
-				<text>Foreword (chinese)</text>
+				<text>前 言</text>
 			</navLabel>
 			<content src="foreword-zh.xhtml"/>
 		</navPoint>
 		<navPoint id="foreword-en">
 			<navLabel>
-				<text>Foreword (english)</text>
+				<text>Foreword</text>
 			</navLabel>
 			<content src="foreword-en.xhtml"/>
 		</navPoint>
@@ -53,11 +53,77 @@
 			</navLabel>
 			<content src="chapter1-abstract-zh.xhtml"/>
 		</navPoint>
-		<navPoint id="chapter1-en">
+		<navPoint id="chapter1-en_1">
 			<navLabel>
 				<text>Chapter 1 – Education in the Knowledge Economy</text>
 			</navLabel>
-			<content src="chapter1-en.xhtml"/>
+			<content src="chapter1-en.xhtml#ch1EitKE"/>
+			<navPoint id="chapter1-en_2">
+				<navLabel>
+					<text>Mediated Circles of Discourse</text>
+				</navLabel>
+				<content src="chapter1-en.xhtml#ch1MCoD"/>
+			</navPoint>
+			<navPoint id="chapter1-en_3">
+				<navLabel>
+					<text>Remediation</text>
+				</navLabel>
+				<content src="chapter1-en.xhtml#ch1R"/>
+			</navPoint>
+			<navPoint id="chapter1-en_4">
+				<navLabel>
+					<text>Grammar of Schooling</text>
+				</navLabel>
+				<content src="chapter1-en.xhtml#ch1GoS"/>
+			</navPoint>
+			<navPoint id="chapter1-en_5">
+				<navLabel>
+					<text>Knowledge Society</text>
+				</navLabel>
+				<content src="chapter1-en.xhtml#ch1KS"/>
+			</navPoint>
+			<navPoint id="chapter1-en_6">
+				<navLabel>
+					<text>Winners take all?</text>
+				</navLabel>
+				<content src="chapter1-en.xhtml#ch1Wta"/>
+			</navPoint>
+			<navPoint id="chapter1-en_7">
+				<navLabel>
+					<text>Master-Apprentice</text>
+				</navLabel>
+				<content src="chapter1-en.xhtml#ch1MA"/>
+			</navPoint>
+			<navPoint id="chapter1-en_8">
+				<navLabel>
+					<text>Innovation on a Global Scale</text>
+				</navLabel>
+				<content src="chapter1-en.xhtml#IoaGS"/>
+			</navPoint>
+			<navPoint id="chapter1-en_9">
+				<navLabel>
+					<text>Pedagogical Principles</text>
+				</navLabel>
+				<content src="chapter1-en.xhtml#ch1PP"/>
+			</navPoint>
+			<navPoint id="chapter1-en_10">
+				<navLabel>
+					<text>Learning Architectures</text>
+				</navLabel>
+				<content src="chapter1-en.xhtml#ch1LA"/>
+			</navPoint>
+			<navPoint id="chapter1-en_11">
+				<navLabel>
+					<text>Principles of Good Educational Practice</text>
+				</navLabel>
+				<content src="chapter1-en.xhtml#ch1PoGEP"/>
+			</navPoint>
+			<navPoint id="chapter1-en_12">
+				<navLabel>
+					<text>References</text>
+				</navLabel>
+				<content src="chapter1-en.xhtml#ch1References"/>
+			</navPoint>
 		</navPoint>
 		<navPoint id="part2-zh">
 			<navLabel>
@@ -71,11 +137,107 @@
 			</navLabel>
 			<content src="chapter7-abstract-en.xhtml"/>
 		</navPoint>
-		<navPoint id="chapter7-zh">
+		<navPoint id="chapter7-zh_1">
 			<navLabel>
-				<text>第7章 电子教材在中国的发展与应用</text>
+				<text>第7章 电子教材在中国的发展与应用 摘要</text>
 			</navLabel>
-			<content src="chapter7-zh.xhtml"/>
+			<content src="chapter7-zh.xhtml#ch7"/>
+			<navPoint id="chapter7-zh_2">
+				<navLabel>
+					<text>7.1电子教材的基本概念及分类</text>
+				</navLabel>
+				<content src="chapter7-zh.xhtml#ch7-1"/>
+			</navPoint>
+			<navPoint id="chapter7-zh_3">
+				<navLabel>
+					<text>7.2电子教材的发展</text>
+				</navLabel>
+				<content src="chapter7-zh.xhtml#ch7-2"/>
+				<navPoint id="chapter7-zh_4">
+					<navLabel>
+						<text>7.2.1 电子教材的理论研究</text>
+					</navLabel>
+					<content src="chapter7-zh.xhtml#ch7-2-1"/>
+				</navPoint>
+				<navPoint id="chapter7-zh_5">
+					<navLabel>
+						<text>7.2.2 电子教材内容标准的制定</text>
+					</navLabel>
+					<content src="chapter7-zh.xhtml#ch7-2-2"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="chapter7-zh_6">
+				<navLabel>
+					<text>7.3电子教材的特点和对教育发展的意义</text>
+				</navLabel>
+				<content src="chapter7-zh.xhtml#ch7-3"/>
+				<navPoint id="chapter7-zh_7">
+					<navLabel>
+						<text>7.3.1有利于学生素质培养</text>
+					</navLabel>
+					<content src="chapter7-zh.xhtml#ch7-3-1"/>
+				</navPoint>
+				<navPoint id="chapter7-zh_8">
+					<navLabel>
+						<text>7.3.2 有利用于教师的工作</text>
+					</navLabel>
+					<content src="chapter7-zh.xhtml#ch7-3-2"/>
+				</navPoint>
+				<navPoint id="chapter7-zh_9">
+					<navLabel>
+						<text>7.3.3 有利于资源共享，且符合“低碳”理念</text>
+					</navLabel>
+					<content src="chapter7-zh.xhtml#ch7-3-3"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="chapter7-zh_10">
+				<navLabel>
+					<text>7.4电子教材的设计原则</text>
+				</navLabel>
+				<content src="chapter7-zh.xhtml#ch7-4"/>
+				<navPoint id="chapter7-zh_11">
+					<navLabel>
+						<text>7.4.1 与新阅读习惯相结合</text>
+					</navLabel>
+					<content src="chapter7-zh.xhtml#ch7-4-1"/>
+				</navPoint>
+				<navPoint id="chapter7-zh_12">
+					<navLabel>
+						<text>7.4.2 与操作软件功能相结合</text>
+					</navLabel>
+					<content src="chapter7-zh.xhtml#ch7-4-2"/>
+				</navPoint>
+				<navPoint id="chapter7-zh_13">
+					<navLabel>
+						<text>7.4.3 弥补“纸质”感受的不足</text>
+					</navLabel>
+					<content src="chapter7-zh.xhtml#ch7-4-3"/>
+				</navPoint>
+				<navPoint id="chapter7-zh_14">
+					<navLabel>
+						<text>7.4.4 体现“以人为本”</text>
+					</navLabel>
+					<content src="chapter7-zh.xhtml#ch7-4-4"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="chapter7-zh_15">
+				<navLabel>
+					<text>7.5 电子教材的设计开发过程概述</text>
+				</navLabel>
+				<content src="chapter7-zh.xhtml#ch7-5"/>
+			</navPoint>
+			<navPoint id="chapter7-zh_16">
+				<navLabel>
+					<text>7.6电子教材的应用</text>
+				</navLabel>
+				<content src="chapter7-zh.xhtml#ch7-6"/>
+			</navPoint>
+			<navPoint id="chapter7-zh_17">
+				<navLabel>
+					<text>参考文献</text>
+				</navLabel>
+				<content src="chapter7-zh.xhtml#ch7references"/>
+			</navPoint>
 		</navPoint>
 	</navMap>
 </ncx>
